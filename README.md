@@ -19,6 +19,6 @@ web scrape analysis - job adverts
 
 
 
-##thoughts, notes and randomness
+## thoughts, notes and randomness
 I’m a Data Analyst. It might not be as cool or sexy as a data scientist but it is what I am good at. My expertise lies in analytics, using data to provide insight. Over time, I am using different techniques in my work, venturing into what some may call Data Science but at my core, I am an analyst - it might just be that data science provides me with the tools to analyse.
 
