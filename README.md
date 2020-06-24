@@ -26,3 +26,50 @@ I’m a Data Analyst. It might not be as cool or sexy as a data scientist but it
 
 A person employed to analyse and interpret complex digital data, such as the usage statistics of a website, especially in order to assist a business in its decision-making.
 https://www.lexico.com/definition/data_scientist
+
+
+# What Am I?
+
+This project began as a way for me to use develop my data science skills by exploring the difference between data science and data analysis. However, as with most projects it took on a life of its own and has evolved over time. As I read more literature and researched the subject, I built up a picture of the data science landscape. I moved away from the semantics and more towards its application. 
+
+## What is Data Science?
+
+Data Science seems to be the ‘in’ subject at the moment but as the fig. 1 below shows it is a fairly recent invention. Many people have attempted to pin down what data science is, which common examples including ......, xxxxx and ...... However, data science can perhaps best be summed up by its dictionary definition (https://www.lexico.com/search?utf8=%E2%9C%93&filter=en_dictionary&dictionary=en&query=data+science). It doesn't have one.
+
+Data science takes a holistic approach, bringing together different areas of expertise. For an individual to be an expert in all these areas would be a rarity (as rare as a unicorn). Therefore, perhaps pinning down and defining data science may forever be up for debate.  
+
+## The Data Scientist
+
+So, if data science doesn't exist (according to the dictionary), what does a data scientist do?
+Well, here the dictionary can help us out:
+
+    Data scientist: A person employed to analyse and interpret complex digital data, such as the 	usage statistics of a website, especially in order to assist a     business in its decision-	making. (https://www.lexico.com/definition/data_scientist)
+
+	
+What tools do they use? What skills do they require? 
+
+But in case you wanted that definition of a data scientist, here you go:
+
+
+
+How does this differ from a statistician:
+An expert in the preparation and analysis of statistics.
+https://www.lexico.com/definition/statistician
+
+Or a computer scientist:
+An expert or specialist in computer science; a student of computer science.
+
+
+And the fields:
+
+statistics
+The practice or science of collecting and analysing numerical data in large quantities, especially for the purpose of inferring proportions in a whole from those in a representative sample.
+
+
+computer science
+The study of the principles and use of computers.
+
+
+Data Science Timeline
+
+It’s been frequently (or over) quoted that a ‘data scientist’ is the sexiest career of the 21st Century (Forbes Magazine, 2012).
